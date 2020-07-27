@@ -1,0 +1,238 @@
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src:url('../fonts/roboto-v20-latin-regular.woff2') format('woff2');
+    src:url('../fonts/roboto-v20-latin-regular.woff') format('woff');
+}
+
+.header {
+    max-width:1219px;
+    padding-left: 55px;
+    padding-right: 55px;
+    height:84px;
+    background-color: #007765 ;
+    margin-left: auto;
+    margin-right:auto ;
+}
+
+.logo{
+    padding:20px;
+}
+
+.menu-link {
+    text-align: right;
+    margin-top: -60px;
+    margin-right: 40px;
+}
+.link {
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration: none;
+    color:white;
+    border-right: 2px solid #ffffff;
+    padding-right:5px;
+    padding-left: 5px;
+}
+
+.link_withoutborder {
+     padding-left:3px;
+     border:none;
+}
+
+.pipernetishere_banner {
+    background-image: url('image.png') ;
+    max-width: 1219px;
+    height: 403px;
+    padding-left: 55px;
+    padding-right: 55px;
+    margin-right: auto;
+    margin-left: auto;
+
+
+}
+
+
+
+.text_banner{
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 84px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 160px;
+
+}
+
+.the_problem {
+    background-image: url("The Problem.png");
+    max-width: 1219px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.the_problem_title {
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    color: #007765;
+    padding-top: 48px;
+}
+
+.the_problem_subtitle {
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+    color: #000000;
+    padding: 16px 54px 92px 55px;
+}
+.bold {
+    font-weight: bold;
+}
+
+.second_banner {
+    max-width: 1219px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+    background-image:url('2.png');
+}
+
+.second_banner_text {
+    font-family: Roboto,sans-serif;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 56px;
+    text-align: center;
+    color:#ffffff;
+    padding:50px 163px 127px 163px;
+    background-size: cover;
+}
+
+.introducing {
+    background-image: url("PPCbg.png");
+    max-width: 1219px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.logo {
+ padding-left: 35px;
+    max-width: 115px;
+
+}
+
+.introducing_first_text {
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+    color: #000000;
+    text-align: left;
+    padding-left: 230px;
+    margin-top:-155px ;
+}
+
+.introducing_second_text {
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+    color: #000000;
+    text-align: left;
+    margin:40px 55px 80px;
+}
+
+.the_team {
+    max-width: 1219px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+    background-image: url("bg.png");
+
+
+
+
+}
+
+.photo {
+    width: 100%;
+}
+.name {
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #007765;
+}
+
+.specialty {
+    font-family: Roboto,sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+
+}
+
+.member {
+    text-align: center;
+    flex-basis: 33%;
+    padding: 24px;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+}
+
+.members {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+
+.footer {
+    background: #333333;
+    max-width: 1219px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+.privacy_text {
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top:48px;
+    padding-bottom: 60px;
+}
+
+
+
+
+
